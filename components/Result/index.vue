@@ -1,6 +1,6 @@
 <template>
   <div>
-   RESULT : {{ this.computedTodoTitle }}
+   RESULT COMPONENT : {{ this.computedTodoTitle }}
   </div>
 </template>
 

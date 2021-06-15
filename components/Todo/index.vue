@@ -1,6 +1,6 @@
 <template>
   <div>
-      Todo : 
+      Todo CHANGABLE COMPONENT : 
       {{ this.todo.title }}
       <input v-model="todoTitle">
       <button @click="changeTitle">ChangeTitle</button>
